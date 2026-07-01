@@ -1,0 +1,6 @@
+{
+  "name": "AgriSmart Analytics & ML Platform",
+  "description": "Nền tảng phân tích nông nghiệp thông minh, tiền xử lý dữ liệu và huấn luyện mô hình học máy (Random Forest, Decision Tree, Linear Regression) dự báo sản lượng, rủi ro dịch bệnh và doanh thu dựa trên 8 bộ dữ liệu thực tế.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
